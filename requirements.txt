@@ -1,0 +1,6 @@
+boto3
+awscli
+amazon-textract-response-parser
+# amazon-textract-
+# amazon-textract-textractor
+# amazon-textract-prettyprinter
