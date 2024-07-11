@@ -37,13 +37,6 @@ This application processes documents using AWS Textract, restructures the conten
      aws_secret_access_key = YOUR_SECRET_KEY
      ```
 
-4. Set up your Anthropic API key:
-   - Create a `.env` file in the project root
-   - Add your Anthropic API key:
-     ```
-     ANTHROPIC_API_KEY=your_api_key_here
-     ```
-
 ## Usage
 
 1. Run the Streamlit app:
